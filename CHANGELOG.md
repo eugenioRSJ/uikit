@@ -1,5 +1,15 @@
 # Changelog
 
+## WIP
+
+### Changed
+
+- Sortable drag is no longer clamped to viewport
+
+### Fixed
+
+- Fix prefix script
+
 ## 3.5.8 (September 25, 2020)
 
 ### Added
